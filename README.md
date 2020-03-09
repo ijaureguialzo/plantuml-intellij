@@ -14,7 +14,7 @@ Al abrir un proyecto cuyo README.md tenga un diagrama UML escrito en PlantUML, a
 
 2. Descargar Graphviz para Windows.
  
-	![]("./capturas/VirtualBox_Windows_10_09_03_2020_20_50_18.png")
+	![](./capturas/VirtualBox_Windows_10_09_03_2020_20_50_18.png)
 	
 	![](./capturas/VirtualBox_Windows_10_09_03_2020_20_50_35.png)
 	
