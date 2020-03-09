@@ -12,7 +12,7 @@ Al abrir un proyecto cuyo README.md tenga un diagrama UML escrito en PlantUML, a
 
 1. Cerrar IntelliJ por completo.
 
-2. Descargar Graphviz para Windows.
+2. Descargar [Graphviz para Windows](https://graphviz.gitlab.io/_pages/Download/Download_windows.html).
  
 	![](./capturas/VirtualBox_Windows_10_09_03_2020_20_50_18.png)
 	
