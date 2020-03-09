@@ -1,6 +1,6 @@
 # PlantUML en IntelliJ
 
-Configurar IntelliJ para que visualice correctamente PlantUML.
+Configurar IntelliJ para que visualice correctamente diagramas [PlantUML](https://plantuml.com/es/).
 
 Al abrir un proyecto cuyo README.md tenga un diagrama UML escrito en PlantUML, aparecerá así si no se han instalado las herramientas adecuadas.
 
