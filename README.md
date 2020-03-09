@@ -22,35 +22,35 @@ Al abrir un proyecto cuyo README.md tenga un diagrama UML escrito en PlantUML, a
 
 3. Instalar Graphviz.
 
-	![](./capturas/VirtualBox_Windows 10_09_03_2020_20_51_12.png)
+	![](./capturas/VirtualBox_Windows_10_09_03_2020_20_51_12.png)
 	
-	![](./capturas/VirtualBox_Windows 10_09_03_2020_20_51_23.png)
+	![](./capturas/VirtualBox_Windows_10_09_03_2020_20_51_23.png)
 	
-	![](./capturas/VirtualBox_Windows 10_09_03_2020_20_51_38.png)
+	![](./capturas/VirtualBox_Windows_10_09_03_2020_20_51_38.png)
 
 4. Copiar la ruta a la instalación de Graphviz.
 
-	![](./capturas/VirtualBox_Windows 10_09_03_2020_20_52_16.png)
+	![](./capturas/VirtualBox_Windows_10_09_03_2020_20_52_16.png)
 
 5. Añadir la ruta copiada a la variable de entorno PATH.
 
-	![](./capturas/VirtualBox_Windows 10_09_03_2020_20_52_32.png)
+	![](./capturas/VirtualBox_Windows_10_09_03_2020_20_52_32.png)
 	
-	![](./capturas/VirtualBox_Windows 10_09_03_2020_20_52_45.png)
+	![](./capturas/VirtualBox_Windows_10_09_03_2020_20_52_45.png)
 	
-	![](./capturas/VirtualBox_Windows 10_09_03_2020_20_53_45.png)
+	![](./capturas/VirtualBox_Windows_10_09_03_2020_20_53_45.png)
 	
-	![](./capturas/VirtualBox_Windows 10_09_03_2020_20_54_43.png)
+	![](./capturas/VirtualBox_Windows_10_09_03_2020_20_54_43.png)
 
 6. Abrir IntelliJ, ir a los ajustes, buscar Languages & Frameworks -> Markdown e instalar la opción PlantUML.
 
-	![](./capturas/VirtualBox_Windows 10_09_03_2020_20_55_46.png)
+	![](./capturas/VirtualBox_Windows_10_09_03_2020_20_55_46.png)
 	
-	![](./capturas/VirtualBox_Windows 10_09_03_2020_20_56_08.png)
+	![](./capturas/VirtualBox_Windows_10_09_03_2020_20_56_08.png)
 
 7. Cerrar la pestaña y volver a cargar el fichero README.md.
 
-	![](./capturas/VirtualBox_Windows 10_09_03_2020_20_57_32.png)
+	![](./capturas/VirtualBox_Windows_10_09_03_2020_20_57_32.png)
 
 ## macOS
 
