@@ -20,7 +20,7 @@ Al abrir un proyecto cuyo README.md tenga un diagrama UML escrito en PlantUML, a
 	
 	![](./capturas/VirtualBox_Windows_10_09_03_2020_20_50_49.png)
 
-3. Instalar Graphviz.
+3. Instalar Graphviz (marcar Everyone en las opciones, el resto por defecto).
 
 	![](./capturas/VirtualBox_Windows_10_09_03_2020_20_51_12.png)
 	
